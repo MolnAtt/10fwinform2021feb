@@ -1,0 +1,8 @@
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\bin\Debug\Winfom_Elso_Lepesek.exe.config
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\bin\Debug\Winfom_Elso_Lepesek.exe
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\bin\Debug\Winfom_Elso_Lepesek.pdb
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\obj\Debug\Winfom_Elso_Lepesek.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\obj\Debug\Winfom_Elso_Lepesek.Properties.Resources.resources
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\obj\Debug\Winfom_Elso_Lepesek.csproj.GenerateResource.cache
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\obj\Debug\Winfom_Elso_Lepesek.exe
+C:\Users\MolnarAttila\Desktop\_om\10f\10f_winform\Winfom_Elso_Lepesek\obj\Debug\Winfom_Elso_Lepesek.pdb
